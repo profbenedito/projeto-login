@@ -37,7 +37,6 @@ section#login {
     transition: 0.3s, heigth 0.3s;
     -o-transition-timing-function: ease;
 }
-
 section#login > div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/pexels-willianjusten-x19328723.jpg) no-repeat;
@@ -45,7 +44,6 @@ section#login > div#imagem {
     background-position: left bottom;
     height: 200px;
 }
-
 section#login > div#formulario {
     display: block;
     padding: 10px;
